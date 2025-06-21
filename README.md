@@ -17,11 +17,15 @@ A responsive and SEO-optimized service website developed using **WordPress** and
   <tr>
     <td align="center" valign="top">
       <strong>🖥️ Desktop View</strong><br>
-      <img src="screenshots/Homepage-Desktop.png" alt="Home Desktop" width="400">
+      <img src="screenshots/Homepage-Desktop.png" alt="Homepage Desktop Image" width="400">
+    </td>
+    <td align="center" valign="top">
+      <strong>💻 Tablet View</strong><br>
+      <img src="screenshots/Homepage-Tablet.png" alt="Homepage Tablet Image" width="300">
     </td>
     <td align="center" valign="top">
       <strong>📱 Mobile View</strong><br>
-      <img src="screenshots/Homepage-Mobile.png" alt="Home Desktop" width="400">
+      <img src="screenshots/Homepage-Mobile.png" alt="Homepage Mobile Image" width="200">
     </td>
   </tr>
 </table>
