@@ -63,5 +63,5 @@ A responsive and SEO-optimized service website developed using **WordPress** and
 
 ## 📃 License
 
-This project is for our client M Ahmed Engineering Business purposes. All Right reserved by M Ahmed Engineering. Please do not use the exact design commercially without permission.
+This project is Designed and Developed for our client M Ahmed Engineering Business purposes. All Rights reserved by M Ahmed Engineering. Please do not use the exact design commercially without permission.
 
