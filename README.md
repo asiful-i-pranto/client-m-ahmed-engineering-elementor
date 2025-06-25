@@ -1,6 +1,6 @@
 # 🌐 M Ahmed Engineering – WordPress Elementor Website
 
-A responsive and SEO-optimized service website developed using **WordPress** and **Elementor Page Buiilder**, designed through **Figma** for M Ahmed Engineering, an appliance servicing business in Bangladesh.
+A responsive and SEO-optimized service website developed using **WordPress** and **Elementor Page Builder**, designed through **Figma** for M Ahmed Engineering, an appliance servicing business in Bangladesh.
 
 ## 📌 Project Highlights
 
@@ -59,8 +59,7 @@ A responsive and SEO-optimized service website developed using **WordPress** and
     <td align="center" valign="top" width="50%">
       <strong>👨‍💻 Imam Hossain Rafat</strong><br>
       Frontend Web Developer<br>
-      [Website](https://coauthorwebsite.com)<br>
-      [LinkedIn](https://linkedin.com/in/coauthorprofile)<br>
+      [LinkedIn](https://www.linkedin.com/in/imamshaheb/)<br>
     </td>
   </tr>
 </table>
